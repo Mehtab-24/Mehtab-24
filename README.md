@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mehtab Singh</h1>
 
-<p align="center">
+<p 
 🚀 BCA Student at Amity University <br>
 💻 Full-Stack & DevSecOps Developer <br>
 🔐 Building Secure, AI-powered Systems <br>
 🌱 Focused on Cloud, Sustainability Tech & Open Source
 </p>
+## 🧠 About Me
+
+- 🔭 Currently building **Sentinel Scan** – A DevSecOps Security Analysis System  
+- 🌍 Creator of **CarbonPrint** – Digital Sustainability Passport  
+- 🤖 Exploring AI Foundations 
+- ☁️ Working with Cloud & Modern Web Stacks  
+- 🛠 Love turning ideas into deployable systems
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehtab-sandhu-46a73b35a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtabsandhu0409@gmail.com) 
 
