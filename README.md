@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehtab Singh</h1>
 
 <h3 align="center">
-🚀 BCA Student @ Amity University | 💻 Full-Stack & DevSecOps Developer  
+🚀 3rd Year CS Student | 💻 Full-Stack & DevSecOps Developer  
 🔐 Building Secure, AI-Powered Systems | ☁️ Cloud & Sustainability Tech
 </h3>
 
