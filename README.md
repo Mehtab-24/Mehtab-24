@@ -78,6 +78,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mehtab-24&icon=0&color=1" />
-</p>
+
