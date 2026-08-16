@@ -87,9 +87,7 @@ I am a full-stack engineer and AI systems builder focused on turning complex pro
 ### 🏆 Hall of Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mehtab-24&theme=matrix&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehtab-24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophies" />
 </p>
 
 ---
