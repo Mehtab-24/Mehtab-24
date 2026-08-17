@@ -58,39 +58,24 @@ I am a full-stack engineer and AI systems builder focused on turning complex pro
 
 ### 📊 Activity & Telemetry
 
-<!-- DYNAMIC METRICS FROM METRICS.YML -->
+<!-- 3D ISOMETRIC CALENDAR FROM OUTPUT BRANCH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-metrics.svg" alt="Dynamic GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-metrics.svg" alt="Dynamic 3D Isometric Calendar" width="100%" />
 </p>
 
-<!-- 3D ISOMETRIC CALENDAR FROM ISOMETRIC.YML -->
+<!-- WORKFLOW GENERATED CODING HABITS & RADAR -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-metrics-isocalendar.svg" alt="3D Isometric Contribution Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-habits.svg" alt="Coding Habits" width="49%" />
+  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-languages.svg" alt="Language Breakdown" width="49%" />
 </p>
 
-<!-- ANIMATED RETRO SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<!-- HIGH-AVAILABILITY STREAK STATS -->
+<!-- STABLE STREAK METRICS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mehtab-24&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 Hall of Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehtab-24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophies" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
