@@ -1,0 +1,27 @@
+name: Generate Curated Ecosystem
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Mehtab-24
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          filename: github-stars.svg
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update starred ecosystem"

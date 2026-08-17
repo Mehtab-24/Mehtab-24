@@ -1,0 +1,29 @@
+name: Generate Terminal Activity Feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Mehtab-24
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          filename: github-activity.svg
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: push, issue, pr, release
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update activity feed"
