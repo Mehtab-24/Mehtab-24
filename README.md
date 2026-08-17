@@ -15,9 +15,9 @@
 
 I am a full-stack engineer and AI systems builder focused on turning complex problem spaces into resilient, production-ready applications. My primary focus spans architecting modern web platforms, orchestrating multi-agent systems with autonomous workflows, and building high-performance backend microservices.
 
-- 🤖 **Autonomous AI Systems:** Designing multi-agent architectures, LLM pipelines, and intelligent API orchestrations.
-- 🌐 **Full-Stack Engineering:** Engineering accessible, high-conversion interfaces paired with robust backend APIs.
-- ☁️ **Cloud & Scalability:** Designing isolated environments with Docker, managing relational and NoSQL databases, and deploying automated cloud pipelines.
+* 🤖 **Autonomous AI Systems:** Designing multi-agent architectures, LLM pipelines, and intelligent API orchestrations.
+* 🌐 **Full-Stack Engineering:** Engineering accessible, high-conversion interfaces paired with robust backend APIs.
+* ☁️ **Cloud & Scalability:** Designing isolated environments with Docker, managing relational and NoSQL databases, and deploying automated cloud pipelines.
 
 ---
 
@@ -45,37 +45,88 @@ I am a full-stack engineer and AI systems builder focused on turning complex pro
 
 ---
 
-### 🚀 Featured Deployments & Implementations
+### 🚀 Selected Deployments & Systems
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🤖 **AI Stack Auditor** | Multi-agent autonomous system to analyze, parse, and optimize enterprise software stacks & expenses | `FastAPI` `React` `Supabase` `Gemini API` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mehtab-24/ai-stack-auditor) |
-| 🌐 **Code-Bhasha** | Intelligent multilingual programming translation & localized execution environment | `Next.js` `Python` `AWS` `AI Agents` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mehtab-24/code-bhasha) |
-| 🚀 **Future.Forge** | Agentic AI career simulation engine with containerized workflows and interactive paths | `Next.js` `FastAPI` `Gemini` `Railway` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mehtab-24/future-forge) [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=railway&logoColor=white)](https://futureforge.up.railway.app) |
-| 🌍 **CarbonPrint** | Sustainability analytics platform with real-time carbon emission tracking algorithms | `React` `Node.js` `MongoDB` `Render` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mehtab-24/carbonprint) [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=flat-square&logo=render&logoColor=white)](https://carbonprint.onrender.com) |
+<div align="center">
+  <table border="0" style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td width="50%" style="padding: 14px; vertical-align: top;">
+        <h3>🤖 AI Stack Auditor</h3>
+        <p>A multi-agent autonomous system engineered to analyze enterprise software stacks, detect duplicate subscriptions, and optimize budgets.</p>
+        <p><b>Stack:</b> <code>FastAPI</code> • <code>React</code> • <code>Supabase</code> • <code>Gemini API</code></p>
+        <p>
+          <a href="https://github.com/Mehtab-24/ai-stack-auditor" target="_blank">
+            <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="Repo" />
+          </a>
+          <a href="https://ai-stack-auditor.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" style="padding: 14px; vertical-align: top;">
+        <h3>🌐 Code-Bhasha</h3>
+        <p>An intelligent programming language translation and localized sandbox execution runtime built for multilingual developer accessibility.</p>
+        <p><b>Stack:</b> <code>Next.js</code> • <code>Python</code> • <code>AWS</code> • <code>AI Agents</code></p>
+        <p>
+          <a href="https://github.com/Mehtab-24/code-bhasha" target="_blank">
+            <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="Repo" />
+          </a>
+          <a href="https://code-bhasha.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="padding: 14px; vertical-align: top;">
+        <h3>🚀 Future.Forge</h3>
+        <p>Interactive career decision engine with branching narrative nodes, dynamic feedback loops, and automated agent evaluations.</p>
+        <p><b>Stack:</b> <code>Next.js</code> • <code>FastAPI</code> • <code>Gemini API</code> • <code>Railway</code></p>
+        <p>
+          <a href="https://github.com/Mehtab-24/future-forge" target="_blank">
+            <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="Repo" />
+          </a>
+          <a href="https://futureforge.up.railway.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=railway&logoColor=black" alt="Live Demo" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" style="padding: 14px; vertical-align: top;">
+        <h3>🌍 CarbonPrint</h3>
+        <p>Sustainability analytics platform featuring interactive emissions telemetry, localized metrics graphs, and actionable goals.</p>
+        <p><b>Stack:</b> <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Render</code></p>
+        <p>
+          <a href="https://github.com/Mehtab-24/carbonprint" target="_blank">
+            <img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="Repo" />
+          </a>
+          <a href="https://carbonprint.onrender.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 Activity & Telemetry
+### 📊 Ecosystem Activity
 
-<!-- 3D ISOMETRIC CALENDAR FROM OUTPUT BRANCH -->
+<!-- ANIMATED RETRO SNAKE GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-metrics.svg" alt="Dynamic 3D Isometric Calendar" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
-<!-- WORKFLOW GENERATED CODING HABITS & RADAR -->
+<!-- HIGH-AVAILABILITY STREAK & TOP LANGUAGES (NO 404 OR BROKEN IMAGES) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-habits.svg" alt="Coding Habits" width="49%" />
-  <img src="https://raw.githubusercontent.com/Mehtab-24/Mehtab-24/output/github-languages.svg" alt="Language Breakdown" width="49%" />
-</p>
-
-<!-- STABLE STREAK METRICS -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mehtab-24&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mehtab-24&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
-
 
 ### 🌐 Let's Connect
 
